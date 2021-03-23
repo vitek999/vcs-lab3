@@ -1,0 +1,5 @@
+// code in file 1
+
+while ( true ) {
+	print("hello world");
+}
