@@ -1,4 +1,5 @@
 void main()
 {
-	printf("Count apples - 5");
+	int a = 5;
+	printf("Count apples - ", a);
 }
