@@ -1,4 +1,6 @@
 fun main() {
-    (1..10).forEach(::println)
+    (1..10).forEach {
+       println(it * it)
+    }
 }
 
